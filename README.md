@@ -1,4 +1,5 @@
 # 🏋️ FitApp — Fitness Social PWA
+fitapp-production-0298.up.railway.app
 
 A complete fitness social web app with workout tracking, social feed, progress photos, partner matching, and fitness places discovery. Built with pure HTML/CSS/JS + Node.js + Express + SQLite.
 
